@@ -7,4 +7,4 @@ Es la creencia de que nuestras habilidades y talentos pueden desarrollarse con e
 2. Esfuerzo constante: El progreso llega con práctica y dedicación.
 3. Cree en tu capacidad: Puedes desarrollar cualquier habilidad con el tiempo y la actitud correcta.
 
-(https://github.com/Janette-Ramirez-Ulloa/reading-notes)
+[README](https://github.com/Janette-Ramirez-Ulloa/reading-notes)
