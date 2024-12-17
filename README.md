@@ -1,0 +1,2 @@
+# mindset
+Growth Mindset
